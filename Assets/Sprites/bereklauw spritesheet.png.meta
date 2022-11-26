@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 54c41880ac709eb41a59d2b15b2b3860
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 238216423455623198
+    second: bereklauw spritesheet_0
+  - first:
+      213: -120295685613489893
+    second: bereklauw spritesheet_0
+  - first:
+      213: -6835166714977812762
+    second: bereklauw spritesheet
+  - first:
+      213: -2487275419598655840
+    second: bereklauw spritesheet_2
+  - first:
+      213: -5519655231597198227
+    second: bereklauw spritesheet_4
+  - first:
+      213: -1440899357616764865
+    second: bereklauw spritesheet_5
+  - first:
+      213: -8745831543587532116
+    second: bereklauw spritesheet_6
+  - first:
+      213: -1141837703647293575
+    second: bereklauw spritesheet_7
+  - first:
+      213: 2612570165791322705
+    second: bereklauw spritesheet_8
+  - first:
+      213: 5511777443375589733
+    second: bereklauw spritesheet_10
+  - first:
+      213: -3465353377848405779
+    second: bereklauw spritesheet_11
+  - first:
+      213: 9125029123129980108
+    second: bereklauw spritesheet_12
+  - first:
+      213: 4462774792044809845
+    second: bereklauw spritesheet_13
+  - first:
+      213: 3571423274590156236
+    second: bereklauw spritesheet_14
+  - first:
+      213: -109759942492855462
+    second: bereklauw spritesheet_15
+  - first:
+      213: -4789859028214408433
+    second: bereklauw spritesheet_16
+  - first:
+      213: -6640169366540169610
+    second: bereklauw spritesheet_17
+  - first:
+      213: 9116758845140875138
+    second: bereklauw spritesheet_18
+  - first:
+      213: 632583097808230491
+    second: bereklauw spritesheet_19
+  - first:
+      213: -7635177108521373283
+    second: bereklauw spritesheet_20
+  - first:
+      213: 7313050264239905162
+    second: bereklauw spritesheet_21
+  - first:
+      213: -6047203476925653472
+    second: bereklauw spritesheet_22
+  - first:
+      213: 1344920186385465338
+    second: bereklauw spritesheet_23
+  - first:
+      213: 3741451549299074371
+    second: bereklauw spritesheet_24
+  - first:
+      213: -5548359531720350585
+    second: bereklauw spritesheet_25
+  - first:
+      213: -1583964873197662225
+    second: bereklauw spritesheet_26
+  - first:
+      213: 1988752662967153317
+    second: bereklauw spritesheet_27
+  - first:
+      213: -5266384907420288799
+    second: bereklauw spritesheet_28
+  - first:
+      213: 8544023578663153320
+    second: bereklauw spritesheet_29
+  - first:
+      213: 550109740833598092
+    second: bereklauw spritesheet_30
+  - first:
+      213: -9040160450394121996
+    second: bereklauw spritesheet_31
+  - first:
+      213: -2038747644791425921
+    second: bereklauw spritesheet_32
+  - first:
+      213: 7571058690003159811
+    second: bereklauw spritesheet_33
+  - first:
+      213: -3496001170901307873
+    second: bereklauw spritesheet_34
+  - first:
+      213: 2497561947491373820
+    second: bereklauw spritesheet_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bereklauw spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 857
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e188cb333905e4300800000000000000
+      internalID: 238216423455623198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 853
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11fef616bf945ef0800000000000000
+      internalID: -6929809425891624011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 857
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7c25461c9421a0800000000000000
+      internalID: -6835166714977812762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 853
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee24c1f2c6b7dd0800000000000000
+      internalID: -2487275419598655840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64c50eafce3663b0800000000000000
+      internalID: -5519655231597198227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 17
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380a202ba5e00ce0800000000000000
+      internalID: -1440899357616764865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 17
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21f0b6c8090a680800000000000000
+      internalID: -8745831543587532116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 17
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f84f288a06720f0800000000000000
+      internalID: -1141837703647293575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 17
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15276ca49b6b14420800000000000000
+      internalID: 2612570165791322705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bereklauw spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 853
+        width: 588
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf291cccb5f19a220800000000000000
+      internalID: 2497561947491373820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bereklauw spritesheet_3: 2497561947491373820
+      bereklauw spritesheet: -6835166714977812762
+      bereklauw spritesheet_4: -5519655231597198227
+      bereklauw spritesheet_0: -6929809425891624011
+      bereklauw spritesheet_6: -8745831543587532116
+      bereklauw spritesheet_7: -1141837703647293575
+      bereklauw spritesheet_2: -2487275419598655840
+      bereklauw spritesheet_1: 238216423455623198
+      bereklauw spritesheet_8: 2612570165791322705
+      bereklauw spritesheet_5: -1440899357616764865
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
