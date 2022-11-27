@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class ForcefieldPlacing : MonoBehaviour
 {
+	public GameObject[] forceFields;
+	public List<GameObject> placeStagTowers = new();
+	
 	public static ForcefieldPlacing Instance { get; private set; }
 	void Awake()
 	{
@@ -13,47 +16,43 @@ public class ForcefieldPlacing : MonoBehaviour
 		}
 	}
 
-	public GameObject[] Forcefields;
-
-	public List<GameObject> placeStagTowers = new List<GameObject>();
-
-	//forcefield empties enabelen wanneer er een hert totem word geplaatsts. If(herttomet nr 3 word geplaats dan zet de empties aan)
-
 	private void Update()
 	{
-		if (placeStagTowers[0] != null)
-		{
-			Forcefields[0].SetActive(true);
-		}
+		CheckForceFieldEmpty();
+	}
 
-		if (placeStagTowers[1] != null)
+	private void CheckForceFieldEmpty()
+	{
+		if (placeStagTowers.Count != 0)
 		{
-			Forcefields[1].SetActive(true);
-		}
-
-		if (placeStagTowers[2] != null)
-		{
-			Forcefields[2].SetActive(true);
-		}
-
-		if (placeStagTowers[3] != null)
-		{
-			Forcefields[3].SetActive(true);
-		}
-
-		if (placeStagTowers[4] != null)
-		{
-			Forcefields[4].SetActive(true);
-		}
-
-		if (placeStagTowers[5] != null)
-		{
-			Forcefields[5].SetActive(true);
-		}
-
-		if (placeStagTowers[6] != null)
-		{
-			Forcefields[6].SetActive(true);
+			if (placeStagTowers[0] != null)
+			{
+				forceFields[0].SetActive(true);
+			}
+			else if (placeStagTowers[1] != null)
+			{
+				forceFields[1].SetActive(true);
+			}
+			else if (placeStagTowers[2] != null)
+			{
+				forceFields[2].SetActive(true);
+			}
+			else if (placeStagTowers[3] != null)
+			{
+				forceFields[3].SetActive(true);
+			}
+			else if (placeStagTowers[4] != null)
+			{
+				forceFields[4].SetActive(true);
+			}
+			else if (placeStagTowers[5] != null)
+			{
+				forceFields[5].SetActive(true);
+			}
+			else if (placeStagTowers[6] != null)
+			{
+				forceFields[6].SetActive(true);
+			}
 		}
 	}
 }
