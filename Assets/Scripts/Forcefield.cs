@@ -9,7 +9,7 @@ public class Forcefield : MonoBehaviour
 
 	private NavMeshAgent agent;
 
-	public List<GameObject> enemiesFF = new List<GameObject>();
+	public List<GameObject> enemiesFf = new();
 
 	private void Start()
 	{
@@ -31,11 +31,11 @@ public class Forcefield : MonoBehaviour
 
 	private void OnTriggerEnter(Collider other)
 	{
-		if(other.tag == "Enemy")
+		if(other.CompareTag("Enemy"))
 		{
-			enemiesFF.Add(waveSpawner.Instance.newGO);
+			enemiesFf.Add(waveSpawner.Instance.newGO);
 
-			if (enemiesFF.Contains(waveSpawner.Instance.newGO))
+			if (enemiesFf.Contains(waveSpawner.Instance.newGO))
 			{
 				DamageEnemy();
 			}
@@ -46,10 +46,10 @@ public class Forcefield : MonoBehaviour
 	{
 		if (other.tag == "Enemy")
 		{
-			if (enemiesFF.Contains(waveSpawner.Instance.newGO))
+			if (enemiesFf.Contains(waveSpawner.Instance.newGO))
 			{
 				SetValuesNormal();
-				enemiesFF.Remove(waveSpawner.Instance.newGO);
+				enemiesFf.Remove(waveSpawner.Instance.newGO);
 			}
 		}
 	}
